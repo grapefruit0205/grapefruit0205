@@ -1,5 +1,13 @@
 # 오픈소스 기여
 
+## 개인 프로젝트
+
+### [Click](https://github.com/grapefruit0205/click)
+
+Codex CLI와 Claude Code가 코드를 수정할 때 같은 테스트를 반복해서 실행하는 문제를 다룬 플러그인입니다. 이전 테스트 결과가 여전히 유효한지 확인하고, 판단하기 어려우면 테스트를 다시 실행하도록 만들었습니다.
+
+현재는 개발을 중단했습니다. [실험 기록](https://github.com/grapefruit0205/click/blob/main/docs/history/agent-ab-2026-09-12/README.md)
+
 ## Mixdog
 
 - 모델 전환과 세션 재시도 중 IPC 검증 규칙이 서로 달라 발생하던 오류를 수정하고 회귀 테스트를 추가했습니다. [PR #37](https://github.com/tribgames/mixdog/pull/37)
